@@ -1,7 +1,7 @@
 class Logger {
     constructor(name){
       // Al crear este objeto se guardarán estos valores
-      this.count = 0
+      this.count = 5,
       this.name = name
     }
   
@@ -11,4 +11,4 @@ class Logger {
     }
   }
   
-  module.exports = new Logger('DEFAULT') // Instanciación del objeto y se exporta
+  module.exports = new Logger('SUPERMAN') // Instanciación del objeto y se exporta
