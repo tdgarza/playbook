@@ -1,3 +1,3 @@
 # Twitter
 
-Desarrollando otra vez esto
+App desarrollada en LaunchX
